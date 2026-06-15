@@ -59,4 +59,4 @@ RESEND_API_KEY_ENV = "RESEND_API_KEY"
 # RESEND_API_KEY environment variable, which takes precedence over this value.
 # SECURITY: do not commit a real key to a shared/public repo; rotate it before
 # the project is pushed to GitHub.
-RESEND_API_KEY_FALLBACK = "re_6R1snG3X_GpB1t64BAKtMjiGABaBYgcS6"
+RESEND_API_KEY_FALLBACK = ""
