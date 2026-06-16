@@ -3,7 +3,7 @@ name: Daily WCA report
 on:
   schedule:
     # 8:00 AM Pacific (PDT, UTC-7). Use 0 16 * * * during PST (UTC-8).
-    - cron: '0 15 * * *'
+    - cron: '17 15 * * *'
   workflow_dispatch:
 
 jobs:
